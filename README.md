@@ -2,7 +2,7 @@
  <img  width="100%" height="400" src="https://github.com/user-attachments/assets/f0762d49-cad3-49cd-98dd-4aee910b9dd1">
 </p>
 <h2 align="center">Hello there! My name is Unegbu Precious 👋</h2>
-<p align="center">l am an experienced and dedicated web developer with in-depth knowledge of website programming, frameworks and
+<p align="justify">l am an experienced and dedicated web developer with in-depth knowledge of website programming, frameworks and
 related technologies. Proficient in front-end and back-end development, with strong foundation in creating responsive
 design and cross browser compatibility. <br/>
 I am passionate about crafting seamless web experience that enhance user satisfaction and leveraging my technical
