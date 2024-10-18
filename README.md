@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="100%" height="40%" src="https://github.com/user-attachments/assets/f0762d49-cad3-49cd-98dd-4aee910b9dd1">
+ <img  width="100%" height="60%" src="https://github.com/user-attachments/assets/f0762d49-cad3-49cd-98dd-4aee910b9dd1">
 </p>
 <h2 align="center">Hello there! My name is Unegbu Precious 👋</h2>
 <p align="justify">l am an experienced and dedicated web developer with in-depth knowledge of website programming, frameworks and
