@@ -26,34 +26,19 @@ skills and experience in web development to contribute to the success of a progr
 
 ## Skill Set:
 
-<table>
-  <tr><td valign="top" width="30%">
-
-### Frontend  
+### Main Stack:
 <a href="https://github.com/cravinx">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=7" /> 
-</div>
-</a>
- </td><td valign="top" width="30%">
-        
-### backend
-<a href="https://github.com/cravinx">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,python,django,mysql,postgres&perline=7" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,django,postgres,git,github&perline=12" /> 
 </div>
 </a>
 
-</td><td valign="top" width="30%">
-  
-### Others
+### In View: 
 <a href="https://github.com/cravinx">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,mui,wordpress,vercel&perline=7" /> 
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=vue,angular,threejs &perline=12" /> 
 </div>
 </a>
-</td>
-</tr></table>
 
 ## Github Stats:
 
