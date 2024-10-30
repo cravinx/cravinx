@@ -2,14 +2,29 @@
  <img  width="100%" height="60%" src="https://github.com/user-attachments/assets/f0762d49-cad3-49cd-98dd-4aee910b9dd1">
 </p>
 <h2 align="center">Hello there! My name is Unegbu Precious 👋</h2>
-<p align="justify">l am an experienced and dedicated web developer with in-depth knowledge of website programming, frameworks and
-related technologies. Proficient in front-end and back-end development, with strong foundation in creating responsive
-design and cross browser compatibility. <br/>
+<p align="justify">l am an experienced and dedicated front-end web developer with in-depth knowledge of various modern technologies. Proficient in front-end development with strong foundation in creating responsive
+design and cross browser compatibility, also skilled in backend development using python. <br/>
 I am passionate about crafting seamless web experience that enhance user satisfaction and leveraging my technical
 skills and experience in web development to contribute to the success of a progressive organization
 </p>
 
-<p align="center">When I'm not coding, you can find me playing video games, reading or listening to music. I used to play basketball but I'm 5'7 so that's a challenge 😂. </p>
+### 🧐 More About Me:
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: top;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>🔭 I’m currently studying Psychology at <b>Bahchesir Cyprus University</b></li>
+        <li>🤝 I’m looking to collaborate on Fullstack Enterprise Projects with AI intergration</li>
+        <li>🌱 I’m currently learning Angular and Vue.js</li>
+        <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/cravinx?tab=repositories">Github</a></li>
+        <li>💬 Ask me about anything tech related, I am happy to help (if you have questions with React.js development, you can ask me 🐧)</li>
+        <li>📫 Feel free to contact me on <a href="https://www.linkedin.com/in/cravinx/">LinkedIn</a></li>
+        <li>When I'm not coding, you can find me playing video games, reading or listening to music. I like basketball but I'm 5'7 so that's a challenge 😂.</li>
+        <li>📝 Checkout my <a href="https://www.unegbprecious.com/">Portfolio</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Connect with me:
 
@@ -26,14 +41,14 @@ skills and experience in web development to contribute to the success of a progr
 
 ## Skill Set:
 
-### Main Stack:
+### Main Stack(Expert/Experienced):
 <a href="https://github.com/cravinx">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,django,postgres,git,github&perline=12" /> 
 </div>
 </a>
 
-### In View: 
+### In View(Skilled/beginner): 
 <a href="https://github.com/cravinx">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=vue,angular,threejs &perline=12" /> 
@@ -42,31 +57,19 @@ skills and experience in web development to contribute to the success of a progr
 
 ## Github Stats:
 
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-    <a href="https://github.com/cravinx">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cravinx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cravinx&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/cravinx">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=cravinx&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cravinx's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=cravinx&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Cravinx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cravinx&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+## 📘 Check Out My Repos 
 
- <p align="center">
-   <a href="https://github.com/cravinx"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=cravinx&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
+</p>
+<p align="left">
+  <a href="https://github.com/cravinxtab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
-<br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cravinx" alt="cravinx" /></a> </p>
-</div>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
