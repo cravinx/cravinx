@@ -20,7 +20,7 @@ skills and experience in web development to contribute to the success of a progr
         <li>💬 Ask me about anything tech related, I am happy to help (if you have questions with React.js development, you can ask me 🐧)</li>
         <li>📫 Feel free to contact me on <a href="https://www.linkedin.com/in/cravinx/">LinkedIn</a></li>
         <li>When I'm not coding, you can find me playing video games, reading or listening to music. I like basketball but I'm 5'7 so that's a challenge 😂.</li>
-        <li>📝 Checkout my <a href="https://www.unegbprecious.com/">Portfolio</a></li>
+        <li>📝 Checkout my <a href="https://www.unegbprecious.me/">Portfolio</a></li>
       </ul>
     </td>
   </tr>
@@ -36,7 +36,7 @@ skills and experience in web development to contribute to the success of a progr
   <a href="mailto:unegbuprecious25@gmail.com">
   <img src="https://img.shields.io/badge/unegbuprecious25@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="LeetCode"></a>
   <a href="https://unegbuprecious.me">
-  <img src="https://img.shields.io/badge/-unegbuprecious.com-00CC00?style=for-the-badge&logo=website&logoColor=white" alt="HackerRank"></a>
+  <img src="https://img.shields.io/badge/-unegbuprecious.me-00CC00?style=for-the-badge&logo=website&logoColor=white" alt="HackerRank"></a>
 </p>
 
 ## Skill Set:
