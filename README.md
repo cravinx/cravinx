@@ -35,7 +35,7 @@ skills and experience in web development to contribute to the success of a progr
   <img src="https://img.shields.io/badge/Unegbu%20Precious-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:unegbuprecious25@gmail.com">
   <img src="https://img.shields.io/badge/unegbuprecious25@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="LeetCode"></a>
-  <a href="https://unegbuprecious.com">
+  <a href="https://unegbuprecious.me">
   <img src="https://img.shields.io/badge/-unegbuprecious.com-00CC00?style=for-the-badge&logo=website&logoColor=white" alt="HackerRank"></a>
 </p>
 
